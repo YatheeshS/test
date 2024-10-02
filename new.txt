@@ -2,4 +2,34 @@ new file
 modified
 
 dev changes
+<<<<<<< HEAD
 dev 3 changes
+=======
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made change
+
+
+dev 2 made changes
+>>>>>>> dev
